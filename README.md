@@ -1,4 +1,4 @@
-# 📘 项目环境说明（适用于《动手学强化学习》学习）
+# 📘 项目环境说明（适用于[《动手学强化学习》](https://hrl.boyuai.com/chapter/)学习）
 
 ---
 
@@ -62,9 +62,9 @@ env = gym.make('CartPole-v1', render_mode='human')
 
 ---
 
-## 📁 项目目录结构
+## 📁 [项目](https://pan.baidu.com/s/1aJFlj54Tm_WcpWoD4lmhLQ?pwd=ezew)目录结构
 
-本项目的目录结构如下，按功能模块划分：
+忙活半天还是没能上传GitHub，项目文件放网盘里了🫠项目的目录结构如下：
 
 ### 🧠 强化学习基础
 
@@ -136,11 +136,5 @@ env = gym.make('CartPole-v1', render_mode='human')
 ---
 
 🎓 **祝学习顺利！** 🚀
-
----
-忙活半天还是没能上传GitHub，项目文件放网盘里了🫠
-通过网盘分享的文件：Stone.zip
-链接: https://pan.baidu.com/s/1aJFlj54Tm_WcpWoD4lmhLQ?pwd=ezew 提取码: ezew 复制这段内容后打开百度网盘手机App，操作更方便哦 
---来自百度网盘超级会员v5的分享
 
 ---
