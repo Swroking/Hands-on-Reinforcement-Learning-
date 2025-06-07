@@ -110,8 +110,8 @@ env = gym.make('CartPole-v1', render_mode='human')
   * Python 基础语法
   * Numpy 数组操作
   * Matplotlib 可视化
-  * PyTorch 神经网络编程
-  * 强化学习（RL）原理与实践
+  * PyTorch 神经网络
+  * 强化学习（RL）[原理](https://www.bilibili.com/video/BV1sd4y167NS/)与实践
 
 ---
 
@@ -131,7 +131,7 @@ env = gym.make('CartPole-v1', render_mode='human')
 
 1. **基础入门**（Python + Numpy + Matplotlib + PyTorch）
 2. **强化学习基本概念与单智能体算法**
-3. **多智能体强化学习框架（如 `ma-gym`, `SMAC`）**
+4. **多智能体强化学习框架（如 `ma-gym`, `SMAC`）**
 
 ---
 
