@@ -118,7 +118,7 @@ env = gym.make('CartPole-v1', render_mode='human')
 ### 📖 RL 相关博客
 
 * 📁 文件名：`favorites_2025_6_5.html`
-* 📌 说明：通过 Edge 浏览器导出的书签文件，整理了在学习强化学习、PyTorch、多智能体系统等过程中收集的优质博客与技术资料。
+* 📌 说明：通过 Edge 浏览器导出的书签文件，整理了在学习强化学习、PyTorch、SMAC、[D4RL](https://zhuanlan.zhihu.com/p/11007245238) 环境配置等博客与资料。
 * 🛠 使用方式：
 
   1. 打开 Edge 浏览器
