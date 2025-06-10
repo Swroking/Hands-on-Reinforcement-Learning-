@@ -118,7 +118,7 @@ env = gym.make('CartPole-v1', render_mode='human')
 ### 📖 RL 相关博客
 
 * 📁 文件名：`favorites_2025_6_5.html`
-* 📌 说明：一些关于强化学习、numpy、plt、PyTorch 的博客和资料以及 Gym、SMAC、[D4RL](https://zhuanlan.zhihu.com/p/11007245238) 的环境配置等，[更多环境](https://zhuanlan.zhihu.com/p/667403508)及相关项目可以参考 [Atrai、Mujoco and Box2d](https://github.com/Swroking/Code-for-Hands-on-RL)。
+* 📌 说明：一些关于强化学习、numpy、plt、PyTorch 的博客和资料以及 Gym、SMAC、[D4RL](https://zhuanlan.zhihu.com/p/11007245238) 的环境配置等，更多环境如 [Atrai、Mujoco and Box2d](https://zhuanlan.zhihu.com/p/667403508) 及相关项目可以参考 Atrai_Mujoco.zip
 * 🛠 使用方式：
 
   1. 打开 Edge 浏览器
